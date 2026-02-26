@@ -5,4 +5,3 @@
 - [Prepare against Opponent](https://github.com/orgs/Parishkaar-Technologies/discussions/24)
 - [Intelligent Chess Calendar App](https://github.com/orgs/Parishkaar-Technologies/discussions/25)
 - [World Monitor](https://github.com/orgs/Parishkaar-Technologies/discussions/21)
-- 
